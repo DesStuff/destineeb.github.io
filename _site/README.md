@@ -28,7 +28,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### [Blog Posts](https://desstuff.github.io/_pages/BlogPosts.md)
+### Blog Posts
 
 [_2017-09-12 This Digital Stuff_](https://desstuff.github.io/myblog/_posts/2017-09-12 This Digital Stuff.md)
 So as I'm sitting here trying to set up my first blog I can't help but to realize there may be some truth to this whole thoery about how advances in technology are affecting the way people read. It took me literally four hours to set this up when it should have only taken one. Why? Because i was reading the instructions on my laptop while trying to set the blog up also on my laptop. So, I had to keep toggling back and forth between pages and tabs and minimizing and maximizing screens. There were too many distractions on my laptop like all the tabs open and constant notifications from facebook and other running apps. I can't help but think this would have been easier had I just printed out the instructions.

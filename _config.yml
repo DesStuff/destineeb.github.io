@@ -1,5 +1,5 @@
 include: ["_pages"]
-include: ["_posts"]
+include: ["_post"]
 include: ["_layouts"]
 include: ["_site"]
 title: DailyDoseofDee

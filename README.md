@@ -28,6 +28,6 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### [Blog Posts](https://desstuff.github.io/_pages/BlogPosts.md)
+### Blog Posts
 
 [_2017-09-12 This Digital Stuff_](https://desstuff.github.io/myblog/_posts/2017-09-12 This Digital Stuff.md)

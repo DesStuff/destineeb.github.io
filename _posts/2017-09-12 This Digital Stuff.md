@@ -1,5 +1,6 @@
 ---
 layout: post
+theme: jekyll-theme-merlot
 ---
 
 So as I'm sitting here trying to set up my first blog I can't help but to realize there may be some truth to this whole theory about how advances in technology are affecting the way people read. It took me literally four hours to set this up when it should have only taken one. Why? Because I was reading the instructions on my laptop while trying to set the blog up on the same laptop. So, I had to keep toggling back and forth between pages and tabs minimizing and maximizing screens. There were also too many distractions on my laptop such as all the open tabs and constant notifications from running apps. I can't help but think this would have been easier had I just printed out the instructions.

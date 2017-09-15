@@ -1,5 +1,5 @@
 include: ["_pages"]
-include: ["_post"]
+include: ["_posts"]
 include: ["_layouts"]
 title: DailyDoseofDee
 description: > # this means to ignore newlines until "baseurl:"
